@@ -21,14 +21,14 @@
     <td colspan="4">
       <p>cd $HADOOP_HOME</p>
       <p>./sbin/stop-all.sh</p>
-      <br>cd $HOME</br>
-      <br>rm -r data</br>
-      <br>cd $HADOOP_HOME</br>
-      <br>cd logs</br>
-      <br>rm -r *</br>
-      <br>cd ..</br>
-      <br>hadoop namenode -format</br>
-      <br>./sbin/start-all.sh</br>
+      <p>cd $HOME</p>
+      <p>rm -r data</p>
+      <p>cd $HADOOP_HOME</p>
+      <p>cd logs</p>
+      <p>rm -r *</p>
+      <p>cd ..</p>
+      <p>hadoop namenode -format</p>
+      <p>./sbin/start-all.sh</p>
     </td>
   </tr>
 
