@@ -16,7 +16,7 @@
     <td colspan="3">hadoop을 실행하고나서 jps를 커맨드라인에 입력했을 때 datanode가 없을 경우</td>
   </tr>
   <tr>
-    <th></th>
+    <th>해결방법</th>
     <td colspan="3">
       <p>cd $HADOOP_HOME</p>
       <p>./sbin/stop-all.sh</p>
