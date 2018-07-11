@@ -1,8 +1,5 @@
 <table>
   <tr>
-      <th colspan="4">Hadoop</th>
-  </tr>
-  <tr>
     <th>날짜</th>
     <th>작성자</th>
     <th>제목</th> 
@@ -31,5 +28,4 @@
       <p>./sbin/start-all.sh</p>
     </td>
   </tr>
-
 </table>
