@@ -15,12 +15,10 @@
     <td>[http://paranwater.tistory.com/369](http://paranwater.tistory.com/369)</td>
   </tr>
   <tr>
-    <td>로그</td>
-    <td>로그는 복사하지 못했습니다.</td>
+    <td colspan="4">hadoop을 실행하고나서 jps를 커맨드라인에 입력했을 때 datanode가 없을 </td>
   </tr>
   <tr>
-    <td>해결법</td>
-    <td>
+    <td colspan="4">
       - cd $HADOOP_HOME
       - ./sbin/stop-all.sh
       - cd $HOME
