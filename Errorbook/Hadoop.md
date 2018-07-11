@@ -12,10 +12,12 @@
     <td>http://paranwater.tistory.com/369</td>
   </tr>
   <tr>
-    <td colspan="4">hadoop을 실행하고나서 jps를 커맨드라인에 입력했을 때 datanode가 없을 경우</td>
+    <th>로그 혹은 상황설명</th>
+    <td colspan="3">hadoop을 실행하고나서 jps를 커맨드라인에 입력했을 때 datanode가 없을 경우</td>
   </tr>
   <tr>
-    <td colspan="4">
+    <th></th>
+    <td colspan="3">
       <p>cd $HADOOP_HOME</p>
       <p>./sbin/stop-all.sh</p>
       <p>cd $HOME</p>
