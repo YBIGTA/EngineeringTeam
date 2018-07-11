@@ -19,9 +19,9 @@
   </tr>
   <tr>
     <td colspan="4">
-      <br>cd $HADOOP_HOME</br>
-      <br>./sbin/stop-all.sh</br>
-      <br>d $HOME</br>
+      <p>cd $HADOOP_HOME</p>
+      <p>./sbin/stop-all.sh</p>
+      <br>cd $HOME</br>
       <br>rm -r data</br>
       <br>cd $HADOOP_HOME</br>
       <br>cd logs</br>
