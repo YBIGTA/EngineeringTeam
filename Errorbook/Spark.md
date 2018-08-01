@@ -10,7 +10,7 @@
     <td>2018/07/11</td>
     <td>11기 김현우</td>
     <td>jupyter에서 sc를 실행시켰는데 ''라고 나올 때</td>
-    <td>-</td>
+    <td></td>
   </tr>
   
   <tr>
@@ -38,7 +38,7 @@
     <td>2018/07/11</td>
     <td>11기 김현우</td>
     <td>https://{ip주소}:{포트}로 jupyter가 접속이 안되는 경우</td>
-    <td>-</td>
+    <td></td>
   </tr>
   
   <tr>
