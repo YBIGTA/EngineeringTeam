@@ -43,7 +43,7 @@
     <td>2018/08/01</td>
     <td>11기 김현우</td>
     <td>maven HadoopStudy를 clone하고 maven 빌드를 하려고하는데, jdk관련 에러가 발생할 때</td>
-    <td></td>
+    <td>http://blog.naver.com/PostView.nhn?blogId=jw43834&logNo=220252280525</td>
   </tr>
   <tr>
     <th>로그 혹은 상황설명</th>
@@ -52,7 +52,7 @@
   <tr>
     <th>해결방법</th>
     <td colspan="3">
-      <p>Window -> Preference 에서 jdk가 있는 경로를 추가해준다.</p>
+      <p>jdk가 있는 경로를 추가해준다.</p>
     </td>
   </tr>
 </table>
