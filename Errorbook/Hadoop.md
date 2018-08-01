@@ -47,13 +47,7 @@
   </tr>
   <tr>
     <th>로그 혹은 상황설명</th>
-    <td colspan="3">[ERROR] Failed to execute goal on project hadoop-study: Could not resolve dependencies for project com.ybigta:hadoop-study:jar:0.0.1: Could not find artifact jdk.tools:jdk.tools:jar:1.8 at specified path C:\Program Files\Java\jre1.8.0_151/../lib/tools.jar -> [Help 1]
-[ERROR] 
-[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
-[ERROR] Re-run Maven using the -X switch to enable full debug logging.
-[ERROR] 
-[ERROR] For more information about the errors and possible solutions, please read the following articles:
-[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException</td>
+    <td colspan="3">[ERROR] Failed to execute goal on project hadoop-study: Could not resolve dependencies for project com.ybigta:hadoop-study:jar:0.0.1: Could not find artifact jdk.tools:jdk.tools:jar:1.8 at specified path C:\Program Files\Java\jre1.8.0_151/../lib/tools.jar </td>
   </tr>
   <tr>
     <th>해결방법</th>
