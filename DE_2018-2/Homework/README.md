@@ -7,7 +7,7 @@
   - GroupKeyPartitioner.java (그룹키 파티셔너)
   - MemberIdCountMapper.java (Mapper)
   - MemberIdCountReducer.java (Reducer)
-  - MemberIdCountDriver.java (Driver)
+  - MemberIdCountDriver.java (Driver) -> 그냥 어떤 부분이 위에서 만든 클래스로 set되었는지 읽어보기 (따로 구현X. 그대로 복붙해서 쓰기)
 
 
 - Test Data
