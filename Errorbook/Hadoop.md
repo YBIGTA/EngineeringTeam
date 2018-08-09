@@ -107,5 +107,28 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>작성자</th>
+    <th>제목</th> 
+    <th>참조링크</th>
+  </tr>
+  <tr>
+    <td>2018/08/10</td>
+    <td>12기 김태오</td>
+    <td>INFO mapreduce.Job: Running job: JOB_NAME 에서 진행 안됨</td>
+    <td>갓현우피셜</td>
+  </tr>
+  <tr>
+    <th>로그 혹은 상황설명</th>
+    <td colspan="3">hadoop jar ~ 로 하둡을 실행 했을 때 제목과 같은 곳에서 멈춰 더이상 진행이 되지 않음. `df -h` 로 확인결과 30GB 중 1.4GB가 남아있지만 2KB 인풋파일도 진행 안됨.</td>
+  </tr>
+  <tr>
+    <th>해결방법</th>
+    <td colspan="3">
+      <p>테스트를 위해 파일들을 지워 %GB 정도 남게 만드니 실행되었다. 용량을 지우거나 새 인스턴스를 다시 만들 </p>
+    </td>
+  </tr>
+</table>
 
