@@ -147,59 +147,108 @@
   </tr>
   <tr>
     <th>로그 혹은 상황설명</th>
-    <td colspan="3">ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-common\2.9.0\hadoop-common-2.9.0.jar; ZipFile invalid LOC header (bad signature)
+    <td colspan="3">
+      [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-common\2.9.0\hadoop-common-2.9.0.jar; ZipFile invalid LOC header (bad signature)
+      
+      
 [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\commons\commons-math3\3.1.1\commons-math3-3.1.1.jar; ZipFile invalid LOC header (bad signature)
+
+
 [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-yarn-api\2.9.0\hadoop-yarn-api-2.9.0.jar; invalid CEN header (bad signature)
+
+
 [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-hdfs\2.9.0\hadoop-hdfs-2.9.0.jar; ZipFile invalid LOC header (bad signature)
+
+
 [ERROR] error reading C:\Users\Steph\.m2\repository\com\squareup\okhttp\okhttp\2.4.0\okhttp-2.4.0.jar; ZipFile invalid LOC header (bad signature)
+
+
 [ERROR] error reading C:\Users\Steph\.m2\repository\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar; ZipFile invalid LOC header (bad signature)
-[ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/TokenizerMapper.java:[1,1] cannot access com.ybigta.example.wordcount
-  invalid stored block lengths
+
+[ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/TokenizerMapper.java:[1,1] cannot access com.ybigta.example.wordcount invalid stored block lengths
+
+
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[17,8] cannot access java.lang
   invalid stored block lengths
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[17,38] cannot find symbol
   symbol: class Configured
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[17,60] cannot find symbol
   symbol: class Tool
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[19,29] cannot find symbol
   symbol:   class String
   location: class com.ybigta.example.wordcount.WordCountDriver
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[19,51] cannot find symbol
   symbol:   class Exception
   location: class com.ybigta.example.wordcount.WordCountDriver
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[25,20] cannot find symbol
   symbol:   class String
   location: class com.ybigta.example.wordcount.WordCountDriver
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/WordCountDriver.java:[25,42] cannot find symbol
   symbol:   class Exception
   location: class com.ybigta.example.wordcount.WordCountDriver
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,8] cannot access com.ybigta.example
   invalid stored block lengths
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,36] cannot find symbol
   symbol: class Reducer
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,44] cannot find symbol
   symbol: class Text
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,50] cannot find symbol
   symbol: class IntWritable
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,63] cannot find symbol
   symbol: class Text
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[9,69] cannot find symbol
   symbol: class IntWritable
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[10,13] cannot find symbol
   symbol:   class IntWritable
   location: class com.ybigta.example.wordcount.IntSumReducer
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[13,24] cannot find symbol
   symbol:   class Text
   location: class com.ybigta.example.wordcount.IntSumReducer
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[13,43] cannot find symbol
   symbol:   class IntWritable
   location: class com.ybigta.example.wordcount.IntSumReducer
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[13,64] cannot find symbol
   symbol:   class Context
   location: class com.ybigta.example.wordcount.IntSumReducer
+  
+  
 [ERROR] /C:/Users/Steph/git/HadoopStudy/src/main/java/com/ybigta/example/wordcount/IntSumReducer.java:[14,20] cannot find symbol
   symbol:   class IOException
   location: class com.ybigta.example.wordcount.IntSumReducer
+  
+  
 [INFO] 25 errors </td>
   </tr>
   <tr>
