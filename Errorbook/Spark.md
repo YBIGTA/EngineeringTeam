@@ -77,8 +77,8 @@
   <tr>
     <th>해결방법</th>
     <td colspan="3">
-      <p>.bash_profile.sh 파일을 source 해준다.</p>
-      <p>source ~/.bash_profile.sh</p>
+      <p>.bash_profile 파일을 source 해준다.</p>
+      <p>source ~/.bash_profile</p>
     </td>
   </tr>
 </table>
