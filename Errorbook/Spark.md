@@ -53,3 +53,32 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>작성자</th>
+    <th>제목</th> 
+    <th>참조링크</th>
+  </tr>
+  
+  <tr>
+    <td>2018/08/11</td>
+    <td>11기 김현우</td>
+    <td>spark설치 과정 중에 jupyter notebook, pyspark가 실행되지 않는 경우</td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <th>로그 혹은 상황설명</th>
+    <td colspan="3">Command not found</td>
+  </tr>
+  
+  <tr>
+    <th>해결방법</th>
+    <td colspan="3">
+      <p>.bash_profile.sh 파일을 source 해준다.</p>
+      <p>source ~/.bash_profile.sh</p>
+    </td>
+  </tr>
+</table>
