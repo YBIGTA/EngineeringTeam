@@ -4,7 +4,7 @@
 <br></br>
 
 ## 소개
-<p>와이빅타 엔지니어링팀은 Spark, Hadoop, Hive, Kafka 등 분산처리 프레임워크와 sql, nosql, crawling 등 데이터 엔지니어링에 대하여 공부하는 것이 목적입니다.</p>
+<p>와이빅타 엔지니어링팀은 Spark, Hadoop, Hive, Kafka 등 분산처리 프레임워크와 sql, nosql, crawling 등 데이터 엔지니어링에 대하여 공부하는 곳입니다.</p>
 <br></br>
 
 ## 운영 
