@@ -140,15 +140,14 @@
     <th>참조링크</th>
   </tr>
   <tr>
-    <td>2018/08/10</td>
+    <td>2018/08/11</td>
     <td>11기 김현우</td>
-    <td>INFO mapreduce.Job: Running job: JOB_NAME 에서 진행 안됨</td>
-    <td>갓현우피셜</td>
+    <td>이클립스 메이븐 빌드(meaven build)가 되지 않을 때</td>
+    <td></td>
   </tr>
   <tr>
     <th>로그 혹은 상황설명</th>
-    <td colspan="3">
-      [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-common\2.9.0\hadoop-common-2.9.0.jar; ZipFile invalid LOC header (bad signature)
+    <td colspan="3">[ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\hadoop\hadoop-common\2.9.0\hadoop-common-2.9.0.jar; ZipFile invalid LOC header (bad signature)
       
       
 [ERROR] error reading C:\Users\Steph\.m2\repository\org\apache\commons\commons-math3\3.1.1\commons-math3-3.1.1.jar; ZipFile invalid LOC header (bad signature)
@@ -254,7 +253,8 @@
   <tr>
     <th>해결방법</th>
     <td colspan="3">
-      <p>테스트를 위해 파일들을 지워 %GB 정도 남게 만드니 실행되었다. 용량을 지우거나 새 인스턴스를 다시 만들 </p>
+      <p>로컬 컴퓨터의 C드라이버 -> User(사용자) -> 사용자 계정(ex. Hyunwoo) -> .m2 -> repository에 들어가서 내부에 있는 것들을 모두 삭제한 후, 이클립스를 재실행하여 meaven build 다시 </p>
+      
     </td>
   </tr>
 </table>
