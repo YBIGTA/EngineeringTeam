@@ -1,6 +1,7 @@
 # Ybigta Engineering Team
 <p>와이빅타 엔지니어링팀이 공부했던 것 정리해두는 곳입니다.</p>
 <p>자료는 모두 구글드라이브에 업로드되어있습니다</p>
+<br></br><br></br><br></br>
 
 ## 소개
 <p>와이빅타 엔지니어링팀은 Spark, Hadoop, Hive, Kafka 등 분산처리 프레임워크와 sql, nosql, crawling 등 데이터 엔지니어링에 대하여 공부하는 것이 목적입니다.</p>
