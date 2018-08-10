@@ -9,6 +9,7 @@
 
 ## 운영 
 <p>엔지니어링팀은 Training Session, Teaching Session, Team Study로 운영이 됩니다.</p>
+<p>각 세션과 스터디는 팀의 운영진의 주도하에 커리큘럼을 정하여 기존 기수를 중심으로 강의자를 선정합니다.</p>
 
 - Training Session
     - 정해진 커리큘럼에 따라 분산처리 프레임워크에 대해서 공부합니다.
