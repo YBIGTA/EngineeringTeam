@@ -253,8 +253,7 @@
   <tr>
     <th>해결방법</th>
     <td colspan="3">
-      <p>로컬 컴퓨터의 C드라이버 -> User(사용자) -> 사용자 계정(ex. Hyunwoo) -> .m2 -> repository에 들어가서 내부에 있는 것들을 모두 삭제한 후, 이클립스를 재실행하여 meaven build 다시 </p>
-      
+      <p>로컬 컴퓨터의 C드라이버 -> User(사용자) -> 사용자 계정(ex. Hyunwoo) -> .m2 -> repository에 들어가서 내부에 있는 것들을 모두 삭제한 후, 이클립스를 재실행하여 meaven build 다시 진행해보기</p>
     </td>
   </tr>
 </table>
