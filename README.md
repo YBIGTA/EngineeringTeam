@@ -5,6 +5,7 @@
 ## 소개
 <p>와이빅타 엔지니어링팀은 Spark, Hadoop, Hive, Kafka 등 분산처리 프레임워크와 sql, nosql, crawling 등 데이터 엔지니어링에 대하여 공부하는 것이 목적입니다.</p>
 
+
 ## 커리큘럼
 <p>엔지니어링팀은 Training Session, Teaching Session, Team Study로 운영이 됩니다.</p>
 
@@ -17,4 +18,5 @@
 
 - Team Study 
     - 데이터 엔지니어링에 기본이 되는sql, nosql, crawling 등에 대하여 스터디를 구성하여 공부합니다.
+
 
