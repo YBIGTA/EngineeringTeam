@@ -19,6 +19,7 @@
 
 - Team Study 
     - 데이터 엔지니어링에 기본이 되는sql, nosql, crawling 등에 대하여 스터디를 구성하여 공부합니다.
+<br></br>
 
 ## 운영진
 - 팀장 : 11기 김현우(sky_hwkim@naver.com)
