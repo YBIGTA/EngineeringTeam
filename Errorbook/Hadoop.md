@@ -287,3 +287,28 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>작성자</th>
+    <th>제목</th> 
+    <th>참조링크</th>
+  </tr>
+  <tr>
+    <td>2018/08/11</td>
+    <td>11기 김현우</td>
+    <td>sed 명령어로 csv파일에서 줄을 지워주는데 permission denied 에러가 발생하는 경우</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>로그 혹은 상황설명</th>
+    <td colspan="3">명령어로 csv파일에서 줄을 지워주는데 permission denied 에러가 발생하는 경우</td>
+  </tr>
+  <tr>
+    <th>해결방법</th>
+    <td colspan="3">
+      <p>파일을 home/ubuntu/로 옮긴 후에 실행한다.</p>
+    </td>
+  </tr>
+</table>
