@@ -257,3 +257,33 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>작성자</th>
+    <th>제목</th> 
+    <th>참조링크</th>
+  </tr>
+  <tr>
+    <td>2018/08/11</td>
+    <td>11기 김현우</td>
+    <td>hive를 실행시키고 SHOW DATABASES; 를 입력했는데 에러가 발생하는 경우</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>로그 혹은 상황설명</th>
+    <td colspan="3">FAILED: SemanticException org.apache.hadoop.hive.ql.metadata.HiveException: java.lang.RuntimeException: Unable to instantiate org.apache.hadoop.hive.ql.metadata.SessionHiveMetaStoreClient</td>
+  </tr>
+  <tr>
+    <th>해결방법</th>
+    <td colspan="3">
+      <p>hive 종료</p>
+      <p>cd hive</p>
+      <p>./bin/hive --service metastore</p>
+      <p>ctrl + z로 백그라운드 실행 시키기</p>
+      <p>bg</p>
+      <p>./bin/hive</p>
+    </td>
+  </tr>
+</table>
