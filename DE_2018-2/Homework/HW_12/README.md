@@ -24,9 +24,9 @@
 
 ### 3. 논문 리뷰
 1. 주어진 논문을 읽고 자유형식으로 정리
-    - https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf
-    - 예시 : https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf
-    - 참고자료 : https://www.slideshare.net/yongho/rdd-paper-review?qid=4a433eb3-47fc-41bc-b750-a4b3f33c8100&v=&b=&from_search=1
+    - [https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+    - 예시 : [https://hwkim94.github.io/distributed-computing/spark/rdd/paperreview/2018/05/15/Spark2.html](https://hwkim94.github.io/distributed-computing/spark/rdd/paperreview/2018/05/15/Spark2.html)
+    - 참고자료 : [https://www.slideshare.net/yongho/rdd-paper-review?qid=4a433eb3-47fc-41bc-b750-a4b3f33c8100&v=&b=&from_search=1](https://www.slideshare.net/yongho/rdd-paper-review?qid=4a433eb3-47fc-41bc-b750-a4b3f33c8100&v=&b=&from_search=1)
 
 ## 제출사항
 1. scp로 전송을 한 후, 100% 전송되었다는 결과를 캡쳐
