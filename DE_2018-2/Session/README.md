@@ -73,7 +73,7 @@
 - 장소 : 신촌 스터디카페 캐치
 - 비고 : 연고전으로 인해 일요일로 세션날짜 변경
 
-### Week13 : parallel programming & improving spark
+### Week14 : parallel programming & improving spark
 - 강의자 : 12기 김지현
 - 강의 날짜 : 2018.10.27 13시
 - 장소 : 연세대학교 공D 403호
