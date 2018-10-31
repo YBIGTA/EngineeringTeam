@@ -1,7 +1,7 @@
 # 과제14
 
 ## 과제 내용
-### 1. RDD 연습
+### 1. partition and sharing variables
 - 구글드라이브에 첨부되어 있는 ipynb파일의 설명 참조
 
 ## 제출사항
