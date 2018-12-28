@@ -74,7 +74,7 @@
 
 - 강의자: 11기 김조현
 
-- 자료: 1124_crawling_request.ipynb, 1124_crawling_request_blank.ipynb
+- 자료: 1124_crawling_request.ipynb, 1124_crawling_request_blank.ipynb 
 
 - 시간: 11월 24일 토요일 오전 10시 30분 ~ 오후 11시 30
 
@@ -86,7 +86,7 @@
 
 - 강의자: 없음 (크롤링 프로젝트를 실행하여 2인 1조로 사이트를 골라 원하는 자료를 크롤링하고 이를 구글 드라이브에 업로드 하는 방식으로 끝냄)
 
-- 자료: 1124_crawling_request.ipynb, 1124_crawling_request_blank.ipynb
+- 자료: 김조현.html, 정우담.zip, 박지원.html, 유예진+이승명.zip
 
 - 시간: 12월 1일 토요일 (해당 날짜 직전까지 자료 업로드 함)
 
